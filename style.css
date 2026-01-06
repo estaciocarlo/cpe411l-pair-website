@@ -1,0 +1,16 @@
+/* Mobile styles */
+@media (max-width: 600px) {
+    nav {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    main section {
+        padding: 10px;
+    }
+
+    body {
+        font-size: 16px;
+    }
+}
